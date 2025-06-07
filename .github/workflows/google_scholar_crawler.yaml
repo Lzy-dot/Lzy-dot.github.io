@@ -1,6 +1,7 @@
 name: Get Citation Data
 
 on:
+  workflow_dispatch:        # ✅ 手动触发
   page_build:               # ✅ GitHub Pages 重新部署后自动触发
   schedule:
     - cron:  '0 8 * * *'     # ✅ 每天 UTC 8 点自动运行
