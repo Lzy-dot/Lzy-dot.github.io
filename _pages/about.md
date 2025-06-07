@@ -20,7 +20,7 @@ I am currently a third-year Ph.D. student (2022–present) in the Department of 
 
 My research interests lie in semantic segmentation, few-shot learning, and AI-generated content (AIGC).
 
-I have published some papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=WelDcqkAAAAJ&hl=zh-CN'>google scholar citations <strong><span id='total_cit'>100+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=WelDcqkAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I have published some papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=WelDcqkAAAAJ&hl=zh-CN'>google scholar citations <strong><span id='total_cit'>100+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=WelDcqkAAAAJ&hl=zh-CN'><<img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/Lzy-dot/Lzy-dot.github.io@main/google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
