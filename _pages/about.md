@@ -96,5 +96,5 @@ Guoxin Xiong, Yuan Wang, **Zhaoyang Li**, Wenfei Yang, Tianzhu Zhang, Xu Zhou, S
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2022.12-2024.06*, Institute of Artifical Intelligence, Hefei Comprehensive National Science Center <img src="/images/AI_lab.PNG" alt="AL Logo" style="height: 2em; vertical-align: middle; margin-left: 4px;">, Hefei.
+- *2022.12-2024.06*, Institute of Artifical Intelligence, Hefei Comprehensive National Science Center <img src="/images/AI_lab.PNG" alt="AL Logo" style="height: 2em; vertical-align: middle; margin-left: 2px;">, Hefei.
 - *2025.06-now*, Bytedance <img src="/images/bytedance_logo.png" alt="Bytedance Logo" style="height: 1em; vertical-align: middle; margin-left: 4px;">, Shanghai.
