@@ -37,7 +37,16 @@ I have published some papers at the top international AI conferences with <a hre
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/DATO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/DATO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Balanced Learning for Domain Adaptive Semantic Segmentation](https://icml.cc/virtual/2025/poster/46247)
+Wangkai Li, Rui Sun, Bohao Liao, **Zhaoyang Li**, Tianzhu Zhang.
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/BLDA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dual-Agent Optimization framework for Cross-Domain Few-Shot Segmentation](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Dual-Agent_Optimization_framework_for_Cross-Domain_Few-Shot_Segmentation_CVPR_2025_paper.pdf)
