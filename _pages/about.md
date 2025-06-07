@@ -96,4 +96,5 @@ Guoxin Xiong, Yuan Wang, **Zhaoyang Li**, Wenfei Yang, Tianzhu Zhang, Xu Zhou, S
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2025.06-now, Bytedance <img src="/images/bytedance_logo.png" alt="Bytedance Logo" height="16">, Shanghai.
+- *2025.06-now, Bytedance <img src="/images/bytedance_logo.png" alt="Bytedance Logo" style="height: 1em; vertical-align: text-bottom; margin-left: 4px;">, Shanghai
+
