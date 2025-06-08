@@ -1,6 +1,7 @@
 name: Get Citation Data
 
 on:
+  page_build:
   workflow_dispatch:          # ✅ 手动触发按钮
   schedule:
     - cron: '0 8 * * *'       # ✅ 每天 8:00 UTC 自动执行
