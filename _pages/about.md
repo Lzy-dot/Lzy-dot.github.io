@@ -20,7 +20,8 @@ I am currently a third-year Ph.D. student (2022–now) in the Department of Auto
 
 My research interests lie in semantic segmentation, few-shot learning, and AI-generated content (AIGC).
 
-I have published some papers at the top international AI conferences with <a href='https://scholar.google.com/citations?user=WelDcqkAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I have published some papers at the top international AI conferences. 
+<!-- with <a href='https://scholar.google.com/citations?user=WelDcqkAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
 
 
 # 🔥 News
@@ -105,6 +106,6 @@ Guoxin Xiong, Yuan Wang, **Zhaoyang Li**, Wenfei Yang, Tianzhu Zhang, Xu Zhou, S
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2025.06-now*, Bytedance <img src="/images/bytedance_logo.png" alt="Bytedance Logo" style="height: 1em; vertical-align: middle; margin-left: 4px;">, Shanghai.
+<!-- - *2025.06-now*, Bytedance <img src="/images/bytedance_logo.png" alt="Bytedance Logo" style="height: 1em; vertical-align: middle; margin-left: 4px;">, Shanghai. -->
 - *2022.12-2024.06*, Institute of Artifical Intelligence, Hefei Comprehensive National Science Center <img src="/images/AI_lab.PNG" alt="AL Logo" style="height: 2em; vertical-align: middle; margin-left: 2px;">, Hefei.
 
