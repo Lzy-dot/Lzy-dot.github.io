@@ -25,6 +25,7 @@ I have published some papers at the top international AI conferences.
 
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 LARM was accepted by ICCV 2025.
 - *2025.05*: &nbsp;🎉🎉 <a href="https://icml.cc/virtual/2025/poster/46247" target="_blank">BLDA</a> was accepted by ICML 2025.
 - *2025.03*: &nbsp;🎉🎉 <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Dual-Agent_Optimization_framework_for_Cross-Domain_Few-Shot_Segmentation_CVPR_2025_paper.pdf" target="_blank">DATO</a> was accepted by CVPR 2025.
 - *2025.03*: &nbsp;🎉🎉 <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Unbiased_Video_Scene_Graph_Generation_via_Visual_and_Semantic_Dual_CVPR_2025_paper.pdf" target="_blank">VISA</a> was accepted by CVPR 2025.
