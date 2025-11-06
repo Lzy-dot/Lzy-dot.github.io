@@ -40,6 +40,15 @@ I have published some papers at the top international AI conferences.
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/LARM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Generalized Few-Shot Point Cloud Segmentation via LLM-Assisted
+Hyper-Relation Matching](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_Generalized_Few-Shot_Point_Cloud_Segmentation_via_LLM-Assisted_Hyper-Relation_Matching_ICCV_2025_paper.pdf)
+**Zhaoyang Li**, Yuan Wang, GUoxin Xiong, Wangkai Li, Yuwen Pan, Tianzhu Zhang.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/BLDA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
