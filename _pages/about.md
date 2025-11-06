@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am currently a third-year Ph.D. student (2022–now) in the Department of Automation at the University of Science and Technology of China (USTC), supervised by <a href="https://scholar.google.com/citations?user=9sCGe-gAAAAJ&hl=en" target="_blank">Prof. Tianzhu Zhang</a>. I received my bachelor's degree in Computer Science and Technology from Central South University in 2022.
+I am currently a 2nd-year Ph.D. student (2022–now) in the Department of Automation at the University of Science and Technology of China (USTC), supervised by <a href="https://scholar.google.com/citations?user=9sCGe-gAAAAJ&hl=en" target="_blank">Prof. Tianzhu Zhang</a>. I received my bachelor's degree in Computer Science and Technology from Central South University in 2022.
 
 My research interests lie in semantic segmentation, few-shot learning, and AI-generated content (AIGC).
 
@@ -45,6 +45,7 @@ I have published some papers at the top international AI conferences.
 
 [Generalized Few-Shot Point Cloud Segmentation via LLM-Assisted
 Hyper-Relation Matching](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_Generalized_Few-Shot_Point_Cloud_Segmentation_via_LLM-Assisted_Hyper-Relation_Matching_ICCV_2025_paper.pdf)
+
 **Zhaoyang Li**, Yuan Wang, GUoxin Xiong, Wangkai Li, Yuwen Pan, Tianzhu Zhang.
 </div>
 </div>
@@ -53,6 +54,7 @@ Hyper-Relation Matching](https://openaccess.thecvf.com/content/ICCV2025/papers/L
 <div class='paper-box-text' markdown="1">
 
 [Balanced Learning for Domain Adaptive Semantic Segmentation](https://icml.cc/virtual/2025/poster/46247)
+
 Wangkai Li, Rui Sun, Bohao Liao, **Zhaoyang Li**, Tianzhu Zhang.
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 </div>
