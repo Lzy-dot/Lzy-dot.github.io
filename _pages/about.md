@@ -25,6 +25,7 @@ I have published some papers at the top international AI conferences.
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 <a href="https://lzy-dot.github.io/BindWeave/" target="_blank">BindWeave</a> was accepted by ICLR 2026.
 - *2025.09*: &nbsp;🎉🎉 ECOCSeg was accepted by NeurIPS 2025.
 - *2025.06*: &nbsp;🎉🎉 LARM was accepted by ICCV 2025.
 - *2025.05*: &nbsp;🎉🎉 <a href="https://icml.cc/virtual/2025/poster/46247" target="_blank">BLDA</a> was accepted by ICML 2025.
