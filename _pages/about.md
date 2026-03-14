@@ -40,7 +40,7 @@ I have published some papers at the top international AI conferences.
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/bindweave.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/bindweave.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 [BindWeave: Subject-Consistent Video Generation via Cross-Modal Integration](https://openreview.net/pdf?id=FP2XNyV9WL)
 
