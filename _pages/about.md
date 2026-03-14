@@ -40,9 +40,12 @@ I have published some papers at the top international AI conferences.
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/bindweave.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/bindweave.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [BindWeave: Subject-Consistent Video Generation via Cross-Modal Integration](https://openreview.net/pdf?id=FP2XNyV9WL)
+**Zhaoyang Li**, Dongjun Qian, Kai Su, qishuai diao, Xiangyang Xia, Chang Liu, Wenfei Yang, Tianzhu Zhang, Zehuan Yuan.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/LARM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
