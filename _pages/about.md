@@ -112,7 +112,9 @@ Guoxin Xiong, Yuan Wang, **Zhaoyang Li**, Wenfei Yang, Tianzhu Zhang, Xu Zhou, S
 
 
 # 🎖 Honors and Awards
-- First-class Scholarship, Graduate School of USTC
+- Huawei PhD Fellowship
+- Wu Weiren Deep Space Exploration Scholarship 
+- First-class Scholarship, Graduate School of USTC (awarded 4 times)
 - First-class Scholarship, Undergraduate School of Central South University
 
 
