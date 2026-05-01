@@ -41,10 +41,10 @@ I have published some papers at the top international AI conferences.
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/specflow' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/specflow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Spectral Heat Flow for Conservative Token Condensation in Vision-Language
-Models
+[Spectral Heat Flow for Conservative Token Condensation in Vision-Language
+Models]
 **Zhaoyang Li**, Yanjun Li, Wangkai Li, Yujia Chen, Tianzhu Zhang.
 </div>
 </div>
