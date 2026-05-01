@@ -25,6 +25,7 @@ I have published some papers at the top international AI conferences.
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 SpecFlow was accepted by ICML 2026.
 - *2026.01*: &nbsp;🎉🎉 <a href="https://lzy-dot.github.io/BindWeave/" target="_blank">BindWeave</a> was accepted by ICLR 2026.
 - *2025.09*: &nbsp;🎉🎉 ECOCSeg was accepted by NeurIPS 2025.
 - *2025.06*: &nbsp;🎉🎉 LARM was accepted by ICCV 2025.
@@ -40,6 +41,15 @@ I have published some papers at the top international AI conferences.
 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/specflow' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Spectral Heat Flow for Conservative Token Condensation in Vision-Language
+Models
+**Zhaoyang Li**, Yanjun Li, Wangkai Li, Yujia Chen, Tianzhu Zhang.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/bindweave.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [BindWeave: Subject-Consistent Video Generation via Cross-Modal Integration](https://openreview.net/pdf?id=FP2XNyV9WL)
