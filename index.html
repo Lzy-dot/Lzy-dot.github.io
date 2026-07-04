@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Zhaoyang Li's academic homepage.">
+  <title>Zhaoyang Li</title>
+  <link rel="shortcut icon" href="images/zhaoyang.jpeg">
+  <link href="https://fonts.googleapis.com/css?family=Titillium+Web:300,400,400italic,600,600italic" rel="stylesheet" type="text/css">
+  <style>
+    body {
+      color: #222;
+      font-family: "Titillium Web", Verdana, Helvetica, sans-serif;
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 1.55;
+      margin: 0;
+    }
+
+    a {
+      color: #1772d0;
+      text-decoration: none;
+    }
+
+    a:focus,
+    a:hover {
+      color: #f09228;
+      text-decoration: none;
+    }
+
+    .page {
+      box-sizing: border-box;
+      margin: 0 auto;
+      max-width: 840px;
+      padding: 28px 20px 42px;
+    }
+
+    .name {
+      font-size: 38px;
+      font-weight: 400;
+      margin: 0 0 18px;
+      text-align: center;
+    }
+
+    .intro {
+      align-items: flex-start;
+      display: grid;
+      gap: 24px;
+      grid-template-columns: 235px 1fr;
+    }
+
+    .profile-photo {
+      border-radius: 15px;
+      display: block;
+      width: 100%;
+    }
+
+    .links {
+      line-height: 1.8;
+      margin-top: 12px;
+      text-align: center;
+    }
+
+    .bio p {
+      margin: 0 0 12px;
+      text-align: justify;
+    }
+
+    .bio strong,
+    .paper-title,
+    .section-title {
+      font-weight: 600;
+    }
+
+    hr {
+      background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0));
+      border: 0;
+      height: 1px;
+      margin: 26px 0 18px;
+    }
+
+    .section-title {
+      font-size: 22px;
+      margin: 0 0 14px;
+    }
+
+    ul {
+      margin: 0;
+      padding-left: 24px;
+    }
+
+    .news-list {
+      max-height: 178px;
+      overflow-y: auto;
+      padding-right: 14px;
+    }
+
+    li {
+      margin-bottom: 7px;
+    }
+
+    .paper {
+      display: grid;
+      gap: 20px;
+      grid-template-columns: 235px 1fr;
+      margin: 0 0 24px;
+    }
+
+    .paper img {
+      border-radius: 15px;
+      display: block;
+      width: 100%;
+    }
+
+    .paper p {
+      margin: 0 0 7px;
+    }
+
+    .paper-title {
+      font-size: 17px;
+    }
+
+    .venue {
+      font-weight: 600;
+    }
+
+    .note {
+      color: #555;
+    }
+
+    .footer {
+      color: #666;
+      font-size: 14px;
+      text-align: right;
+    }
+
+    @media (max-width: 720px) {
+      .page {
+        padding: 20px 16px 34px;
+      }
+
+      .name {
+        font-size: 32px;
+      }
+
+      .intro,
+      .paper {
+        grid-template-columns: 1fr;
+      }
+
+      .profile-photo {
+        margin: 0 auto;
+        max-width: 280px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <h1 class="name">Zhaoyang Li</h1>
+
+    <section class="intro">
+      <div>
+        <a href="images/zhaoyang.jpeg"><img class="profile-photo" src="images/zhaoyang.jpeg" alt="Zhaoyang Li"></a>
+        <div class="links">
+          | <a href="mailto:lizhaoyang@mail.ustc.edu.cn">Email</a> |
+          <a href="https://scholar.google.com/citations?user=WelDcqkAAAAJ">Google Scholar</a> |
+          <br>
+          | <a href="https://github.com/Lzy-dot">GitHub</a> |
+        </div>
+      </div>
+
+      <div class="bio">
+        <p>I am a Ph.D. candidate in the Department of Automation at the University of Science and Technology of China (USTC), advised by <a href="https://scholar.google.com/citations?user=9sCGe-gAAAAJ&hl=en">Prof. Tianzhu Zhang</a>. I received my bachelor's degree in Computer Science and Technology from Central South University in 2022.</p>
+        <p>My research interests include <strong>video generation</strong>, <strong>efficient vision-language models</strong>, and <strong>world model</strong>. I am especially interested in building visual and multimodal systems that remain reliable under limited supervision, domain shift, and complex real-world conditions.</p>
+        <p>I have published papers at ICLR, ICML, ICCV, CVPR, ECCV, NeurIPS, and IJCAI. I also worked as an AIGC algorithm intern at ByteDance with <a href="https://scholar.google.com/citations?user=Kp3XAToAAAAJ&hl=en">Kai Su</a> and <a href="https://shallowyuan.github.io/">Zehuan Yuan</a>, focusing on subject-to-video generation and large-scale model post-training.</p>
+        <p>I am currently a research intern in the World Models team at AceRobotics, supervised by Dr. <a href="https://scholar.google.com/citations?hl=zh-CN&user=ljt16JkAAAAJ">Fei Wang</a>. I expect to graduate in Fall 2027 and welcome opportunities to connect.</p>
+      </div>
+    </section>
+
+    <hr>
+    <section>
+      <h2 class="section-title">News</h2>
+      <ul class="news-list">
+        <li>[05/2026] SpecFlow was accepted to ICML 2026.</li>
+        <li>[01/2026] BindWeave was accepted to ICLR 2026.</li>
+        <li>[09/2025] ECOCSeg was accepted to NeurIPS 2025.</li>
+        <li>[06/2025] LARM was accepted to ICCV 2025.</li>
+        <li>[05/2025] BLDA was accepted to ICML 2025.</li>
+        <li>[03/2025] DATO and VISA were accepted to CVPR 2025.</li>
+        <li>[12/2024] I received 1st place in the WSI-level Glomeruli Detection track of the Kidney Pathology Image Segmentation Challenge at MICCAI 2024.</li>
+        <li>[07/2024] DLE was accepted to ECCV 2024.</li>
+        <li>[04/2024] DENet was accepted to IJCAI 2024.</li>
+        <li>[09/2023] I received 1st place in the Cell Detection from Cell-Tissue Interaction Challenge at MICCAI 2023.</li>
+        <li>[12/2022] I received Meritorious Winner, ranked 4/102, in the Weakly Supervised Cell Segmentation in Multi-modality High-Resolution Microscopy Images Challenge at NeurIPS 2022.</li>
+      </ul>
+    </section>
+
+    <hr>
+    <section>
+      <h2 class="section-title">Publications</h2>
+
+      <article class="paper">
+        <a href="https://openreview.net/pdf?id=QNdqUl17Un"><img src="images/publication_preview/specflow.png" alt="SpecFlow preview"></a>
+        <div>
+          <p><a class="paper-title" href="https://openreview.net/pdf?id=QNdqUl17Un">Spectral Heat Flow for Conservative Token Condensation in Vision-Language Models</a><br>
+          <strong>Zhaoyang Li</strong>, Yanjun Li, Wangkai Li, Yujia Chen, Tianzhu Zhang<br>
+          <span class="venue">ICML 2026</span></p>
+          <p><a href="https://openreview.net/pdf?id=QNdqUl17Un">paper</a> | <a href="https://github.com/Lzy-dot/SpecFlow">code</a></p>
+        </div>
+      </article>
+
+      <article class="paper">
+        <a href="https://lzy-dot.github.io/BindWeave/"><img src="images/publication_preview/bindweave.png" alt="BindWeave preview"></a>
+        <div>
+          <p><a class="paper-title" href="https://openreview.net/pdf?id=FP2XNyV9WL">BindWeave: Subject-Consistent Video Generation via Cross-Modal Integration</a><br>
+          <strong>Zhaoyang Li</strong>, Dongjun Qian, Kai Su, Qishuai Diao, Xiangyang Xia, Chang Liu, Wenfei Yang, Tianzhu Zhang, Zehuan Yuan<br>
+          <span class="venue">ICLR 2026</span></p>
+          <p><a href="https://lzy-dot.github.io/BindWeave/">page</a> | <a href="https://openreview.net/pdf?id=FP2XNyV9WL">paper</a> | <a href="https://github.com/bytedance/BindWeave">code</a></p>
+        </div>
+      </article>
+
+      <article class="paper">
+        <a href="https://arxiv.org/pdf/2603.01074"><img src="images/publication_preview/A3Point.png" alt="A3Point preview"></a>
+        <div>
+          <p><a class="paper-title" href="https://arxiv.org/pdf/2603.01074">Adaptive Augmentation-Aware Latent Learning for Robust LiDAR Semantic Segmentation</a><br>
+          Wangkai Li, <strong>Zhaoyang Li</strong>, Yuwen Pan, Rui Sun, Yujia Chen, Tianzhu Zhang<br>
+          <span class="venue">ICLR 2026</span></p>
+          <p><a href="https://arxiv.org/pdf/2603.01074">paper</a></p>
+        </div>
+      </article>
+
+      <article class="paper">
+        <a href="https://proceedings.neurips.cc/paper_files/paper/2025/file/9f6c0fb150fc9de81d78d85b082f26f1-Paper-Conference.pdf"><img src="images/publication_preview/ECOC.png" alt="ECOCSeg preview"></a>
+        <div>
+          <p><a class="paper-title" href="https://proceedings.neurips.cc/paper_files/paper/2025/file/9f6c0fb150fc9de81d78d85b082f26f1-Paper-Conference.pdf">Towards Robust Pseudo-Label Learning in Semantic Segmentation: An Encoding Perspective</a><br>
+          Wangkai Li, Rui Sun, <strong>Zhaoyang Li</strong>, Tianzhu Zhang<br>
+          <span class="venue">NeurIPS 2025</span></p>
+          <p><a href="https://proceedings.neurips.cc/paper_files/paper/2025/file/9f6c0fb150fc9de81d78d85b082f26f1-Paper-Conference.pdf">paper</a> | <a href="https://github.com/Woof6/ECOCSeg">code</a></p>
+        </div>
+      </article>
+
+      <article class="paper">
+        <a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Li_Generalized_Few-Shot_Point_Cloud_Segmentation_via_LLM-Assisted_Hyper-Relation_Matching_ICCV_2025_paper.pdf"><img src="images/publication_preview/LARM.png" alt="LARM preview"></a>
+        <div>
+          <p><a class="paper-title" href="https://openaccess.thecvf.com/content/ICCV2025/papers/Li_Generalized_Few-Shot_Point_Cloud_Segmentation_via_LLM-Assisted_Hyper-Relation_Matching_ICCV_2025_paper.pdf">Generalized Few-Shot Point Cloud Segmentation via LLM-Assisted Hyper-Relation Matching</a><br>
+          <strong>Zhaoyang Li</strong>, Yuan Wang, Guoxin Xiong, Wangkai Li, Yuwen Pan, Tianzhu Zhang<br>
+          <span class="venue">ICCV 2025</span></p>
+          <p><a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Li_Generalized_Few-Shot_Point_Cloud_Segmentation_via_LLM-Assisted_Hyper-Relation_Matching_ICCV_2025_paper.pdf">paper</a></p>
+        </div>
+      </article>
+
+      <article class="paper">
+        <a href="https://icml.cc/virtual/2025/poster/46247"><img src="images/publication_preview/BLDA.png" alt="BLDA preview"></a>
+        <div>
+          <p><a class="paper-title" href="https://icml.cc/virtual/2025/poster/46247">Balanced Learning for Domain Adaptive Semantic Segmentation</a><br>
+          Wangkai Li, Rui Sun, Bohao Liao, <strong>Zhaoyang Li</strong>, Tianzhu Zhang<br>
+          <span class="venue">ICML 2025</span></p>
+          <p><a href="https://icml.cc/virtual/2025/poster/46247">page</a> | <a href="https://github.com/Woof6/BLDA">code</a></p>
+        </div>
+      </article>
+
+      <article class="paper">
+        <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Dual-Agent_Optimization_framework_for_Cross-Domain_Few-Shot_Segmentation_CVPR_2025_paper.pdf"><img src="images/publication_preview/DATO.png" alt="DATO preview"></a>
+        <div>
+          <p><a class="paper-title" href="https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Dual-Agent_Optimization_framework_for_Cross-Domain_Few-Shot_Segmentation_CVPR_2025_paper.pdf">Dual-Agent Optimization Framework for Cross-Domain Few-Shot Segmentation</a><br>
+          <strong>Zhaoyang Li</strong>, Yuan Wang, Wangkai Li, Tianzhu Zhang, Xiang Liu<br>
+          <span class="venue">CVPR 2025</span></p>
+          <p><a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Dual-Agent_Optimization_framework_for_Cross-Domain_Few-Shot_Segmentation_CVPR_2025_paper.pdf">paper</a></p>
+        </div>
+      </article>
+
+      <article class="paper">
+        <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Unbiased_Video_Scene_Graph_Generation_via_Visual_and_Semantic_Dual_CVPR_2025_paper.pdf"><img src="images/publication_preview/VISA.png" alt="VISA preview"></a>
+        <div>
+          <p><a class="paper-title" href="https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Unbiased_Video_Scene_Graph_Generation_via_Visual_and_Semantic_Dual_CVPR_2025_paper.pdf">Unbiased Video Scene Graph Generation via Visual and Semantic Dual Debiasing</a><br>
+          Yanjun Li, <strong>Zhaoyang Li</strong>, Honghui Chen, Lizhi Xu<br>
+          <span class="venue">CVPR 2025</span></p>
+          <p><a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Unbiased_Video_Scene_Graph_Generation_via_Visual_and_Semantic_Dual_CVPR_2025_paper.pdf">paper</a></p>
+        </div>
+      </article>
+
+      <article class="paper">
+        <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09199.pdf"><img src="images/publication_preview/DLE.png" alt="DLE preview"></a>
+        <div>
+          <p><a class="paper-title" href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09199.pdf">Localization and Expansion: A Decoupled Framework for Point Cloud Few-Shot Semantic Segmentation</a><br>
+          <strong>Zhaoyang Li</strong>, Yuan Wang, Wangkai Li, Rui Sun, Tianzhu Zhang<br>
+          <span class="venue">ECCV 2024</span></p>
+          <p><a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09199.pdf">paper</a></p>
+        </div>
+      </article>
+
+      <article class="paper">
+        <a href="https://www.ijcai.org/proceedings/2024/0164.pdf"><img src="images/publication_preview/DEnet.png" alt="DENet preview"></a>
+        <div>
+          <p><a class="paper-title" href="https://www.ijcai.org/proceedings/2024/0164.pdf">Aggregation and Purification: Dual Enhancement Network for Point Cloud Few-Shot Segmentation</a><br>
+          Guoxin Xiong, Yuan Wang, <strong>Zhaoyang Li</strong>, Wenfei Yang, Tianzhu Zhang, Xu Zhou, Shifeng Zhang, Yongdong Zhang<br>
+          <span class="venue">IJCAI 2024</span></p>
+          <p><a href="https://www.ijcai.org/proceedings/2024/0164.pdf">paper</a></p>
+        </div>
+      </article>
+    </section>
+
+    <hr>
+    <section>
+      <h2 class="section-title">Honors and Awards</h2>
+      <ul>
+        <li>Huawei PhD Fellowship.</li>
+        <li>Wu Weiren Deep Space Exploration Scholarship.</li>
+        <li>First-class Scholarship, Graduate School of USTC, awarded four times.</li>
+        <li>First-class Scholarship, Undergraduate School of Central South University.</li>
+        <li>1st place, Cell Detection from Cell-Tissue Interaction Challenge, MICCAI 2023.</li>
+        <li>Meritorious Winner, Weakly Supervised Cell Segmentation Challenge, NeurIPS 2022.</li>
+      </ul>
+    </section>
+
+    <hr>
+    <section>
+      <h2 class="section-title">Education and Experience</h2>
+      <ul>
+        <li><strong>2022.09 - present</strong>, Ph.D. student, Department of Automation, University of Science and Technology of China.</li>
+        <li><strong>2026.05 - present</strong>, Research Intern, World Models team, AceRobotics.</li>
+        <li><strong>2025.06 - 2025.12</strong>, AIGC Algorithm Intern, ByteDance, Shanghai.</li>
+        <li><strong>2022.12 - 2024.06</strong>, Institute of Artificial Intelligence, Hefei Comprehensive National Science Center.</li>
+        <li><strong>2018.09 - 2022.06</strong>, B.Eng. in Computer Science and Technology, Central South University.</li>
+      </ul>
+    </section>
+
+    <hr>
+    <section>
+      <h2 class="section-title">Reviewer Service</h2>
+      <ul>
+        <li>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025, 2026.</li>
+        <li>International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.</li>
+        <li>International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.</li>
+        <li>European Conference on Computer Vision <strong>(ECCV)</strong>, 2026.</li>
+        <li>Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2026.</li>
+        <li>International Conference on Machine Learning <strong>(ICML)</strong>, 2026.</li>
+      </ul>
+    </section>
+
+    <hr>
+    <p class="footer">Website template adapted from <a href="https://github.com/TairanHe/tairanhe.github.io">Tairan He</a>.</p>
+  </main>
+</body>
+</html>
