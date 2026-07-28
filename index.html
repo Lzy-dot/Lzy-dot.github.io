@@ -110,9 +110,17 @@
       margin: 0 0 24px;
     }
 
-    .paper img {
+    .paper img,
+    .paper video {
       border-radius: 15px;
       display: block;
+      width: 100%;
+    }
+
+    .paper .speaker-preview {
+      aspect-ratio: 16 / 9;
+      object-fit: cover;
+      object-position: center;
       width: 100%;
     }
 
@@ -184,7 +192,7 @@
       <div class="bio">
         <p>I am a Ph.D. candidate in the Department of Automation at the University of Science and Technology of China (USTC), advised by <a href="https://scholar.google.com/citations?user=9sCGe-gAAAAJ&hl=en">Prof. Tianzhu Zhang</a>. I received my bachelor's degree in Computer Science and Technology from Central South University in 2022.</p>
         <p>My research interests include <strong>video generation</strong>, <strong>efficient vision-language models</strong>, and <strong>world model</strong>. I am especially interested in building visual and multimodal systems that remain reliable under limited supervision, domain shift, and complex real-world conditions.</p>
-        <p>I have published papers at ICLR, ICML, ICCV, CVPR, ECCV, NeurIPS, and IJCAI. I also worked as an AIGC algorithm intern at ByteDance with <a href="https://scholar.google.com/citations?user=Kp3XAToAAAAJ&hl=en">Kai Su</a> and <a href="https://shallowyuan.github.io/">Zehuan Yuan</a>, focusing on subject-to-video generation and large-scale model post-training.</p>
+        <p>I have published papers at ICLR, ICML, ICCV, CVPR, ECCV, NeurIPS, and IJCAI. I also worked as an AIGC algorithm intern at ByteDance, supervised by <a href="https://scholar.google.com/citations?user=Kp3XAToAAAAJ&hl=en">Kai Su</a> and <a href="https://shallowyuan.github.io/">Zehuan Yuan</a>, focusing on subject-to-video generation and large-scale model post-training.</p>
         <p>I am currently a research intern in the World Models team at AceRobotics, supervised by Dr. <a href="https://scholar.google.com/citations?hl=zh-CN&user=ljt16JkAAAAJ">Fei Wang</a>. 
         
         I expect to graduate in Fall 2027 and welcome opportunities to connect.</p>
@@ -240,6 +248,16 @@
           Wangkai Li, <span class="author-name">Zhaoyang Li</span>, Yuwen Pan, Rui Sun, Yujia Chen, Tianzhu Zhang<br>
           <span class="venue">ICLR 2026</span></p>
           <p><a href="https://arxiv.org/pdf/2603.01074">[paper]</a></p>
+        </div>
+      </article>
+
+      <article class="paper">
+        <a href="https://dorniwang.github.io/SpeakerVid-5M/"><video class="speaker-preview" autoplay loop muted playsinline preload="metadata" aria-label="SpeakerVid-5M preview"><source src="images/publication_preview/speakervid.mp4" type="video/mp4"></video></a>
+        <div>
+          <p><a class="paper-title" href="https://arxiv.org/abs/2507.09862">SpeakerVid-5M: A Large-Scale High-Quality Dataset for audio-visual Dyadic Interactive Human Generation</a><br>
+          Youliang Zhang, <span class="author-name">Zhaoyang Li</span>, Duomin Wang, Jiahe Zhang, Deyu Zhou, Zixin Yin, Xili Dai, Gang Yu, Xiu Li<br>
+          <span class="venue">ICLR 2026</span></p>
+          <p><a href="https://dorniwang.github.io/SpeakerVid-5M/">[page]</a> | <a href="https://arxiv.org/abs/2507.09862">[paper]</a> | <a href="https://github.com/Dorniwang/SpeakerVid-5M-Code">[code]</a> | <a href="https://huggingface.co/datasets/dorni/SpeakerVid-5M-Dataset">[dataset]</a></p>
         </div>
       </article>
 
